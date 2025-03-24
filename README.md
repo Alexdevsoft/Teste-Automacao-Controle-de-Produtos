@@ -48,13 +48,13 @@ Para executar os testes automatizados, siga estas etapas:
     ```
 - Isso deve exibir a versão do Cypress instalada.
 
-1.  Abra o Cypress:
+# Abra o Cypress:
 
-    ```bash
+  ```bash
     npx cypress open
-    ```
+   ```
 
-    Isso abrirá a interface do Cypress, onde você poderá ver e executar os testes.
+  Isso abrirá a interface do Cypress, onde você poderá ver e executar os testes.
 
 2.  Selecione o arquivo de teste \`product\_list.cy.js\` na lista de testes.
 
